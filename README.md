@@ -5,7 +5,7 @@ Project Objective:
 The objective of this project is to develop a comprehensive Power BI dashboard for analyzing and visualizing credit card financial data. This dashboard aims to provide stakeholders with real-time insights into credit card transactions,useful KPI's, balances, performance metrics, and trends, enabling informed decision-making and strategic planning.
 
 Steps:- 
-Retrive data from SQL data base & CSV file.
+Retrieve data from SQL data base & CSV file.
 Data cleaning & Analysing.
 Creation of Dashboard with following steps using DAX Queries, Measures and Functions.
 Transaction Analysis: Provide detailed breakdowns of credit card transactions including volume, frequency, and category distribution.
